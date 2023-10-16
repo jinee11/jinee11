@@ -4,9 +4,8 @@
 
 
 
-# ✍️ Studying
-<img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+# Skills
+<img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
 
  
