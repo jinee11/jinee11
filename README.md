@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h3>Skills</h3>
+  <h2>Skills</h2>
   <hr>
   <div style="width: 50%;">
     <img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/> 
@@ -27,7 +27,6 @@
   </div>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinee11&langs_count=8)](https://github.com/jinee11/github-readme-stats)
 
 
  
