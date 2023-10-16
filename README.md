@@ -4,17 +4,11 @@
 
 
 
-# Skills
-Language 
+# ✍️ Studying
 <img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-Framework
 
-[DataBase](https://www.notion.so/DataBase-5145c47a2fbb4017b6bc530add6c7123?pvs=21)
 
-[Dev Tool](https://www.notion.so/Dev-Tool-d2a25f5db8104c639a2b9f557ced9ad1?pvs=21)
-
-[Cloud](https://www.notion.so/Cloud-531fc8bc65e74b07b25884e7b6b5ecd1?pvs=21)
  
 
 
