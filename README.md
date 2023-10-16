@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 # Language
-
-[Framework]
+Language
+Framework
 
 [DataBase](https://www.notion.so/DataBase-5145c47a2fbb4017b6bc530add6c7123?pvs=21)
 
