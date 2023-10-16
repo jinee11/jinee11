@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=50&rotate=10"/>
 
 
-<img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+
 
 # Skills
-Language
+Language 
+<img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 Framework
 
 [DataBase](https://www.notion.so/DataBase-5145c47a2fbb4017b6bc530add6c7123?pvs=21)
