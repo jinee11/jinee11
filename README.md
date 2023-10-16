@@ -3,7 +3,7 @@
 
 
 <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
  
 
 
