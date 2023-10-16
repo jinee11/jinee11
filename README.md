@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=Hello%20World!&fontSize=60&rotate=30)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=60&rotate=20)
 
- <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=TypeScript&logoColor=white"/>d
+ <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 
 
