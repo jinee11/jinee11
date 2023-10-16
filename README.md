@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=60&rotate=10)
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=60&rotate=10)<div style="font-size: 30px; text-align: center;">I'm JinSeon</div>
 
 
