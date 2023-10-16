@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=D0D4CA&height=300&section=header&text=Hello%20World!&fontSize=90)
-<p align="center">가운데 정렬되는 텍스트</p>
+![header](https://capsule-render.vercel.app/api?type=Slice&color=D0D4CA&height=300&section=header&text=Hello%20World!&fontSize=90)
+
+ <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 
 
