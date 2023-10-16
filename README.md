@@ -27,6 +27,8 @@
   </div>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinee11&langs_count=8)](https://github.com/jinee11/github-readme-stats)
+
 
  
 
