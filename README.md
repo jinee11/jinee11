@@ -1,5 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=50&rotate=10"/>
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!-nl-I'm%20JinSeon&fontSize=60,30&rotate=10" />
+
 
 
 
