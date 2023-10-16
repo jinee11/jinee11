@@ -7,7 +7,7 @@
 <div align="center">
   <h3>Skills</h3>
   <hr>
-  <div style="width: 50%;">
+  <div style="width: 10%;">
     <img src="https://img.shields.io/badge/JAVA-3178C6?style=for-the-badge&logo=java&logoColor=white"/> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
