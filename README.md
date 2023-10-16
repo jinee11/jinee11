@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=D0D4CA&height=300&section=header&text=Hello%20World!&fontSize=90)
-<p style="text-align:center;"> 안녕하세요, 이진선입니다! </p>
+<p style="text-align:center;">가운데 정렬되는 텍스트</p>
+
 
 
 
