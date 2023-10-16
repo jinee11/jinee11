@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=50&rotate=10"/>
 
 
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ 
 
 
 
