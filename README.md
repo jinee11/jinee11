@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=D0D4CA&height=300&section=header&text=Hello%20World!&fontSize=90)
-<center>가운데 정렬되는 텍스트</center>
+<p align="center">가운데 정렬되는 텍스트</p>
 
 
 
