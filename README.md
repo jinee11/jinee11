@@ -8,7 +8,7 @@
 
 # Language
 
-[Framework](https://www.notion.so/Framework-f17c84dfe6a64e02b207431d7a904d8d?pvs=21)
+[Framework]
 
 [DataBase](https://www.notion.so/DataBase-5145c47a2fbb4017b6bc530add6c7123?pvs=21)
 
