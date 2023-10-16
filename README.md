@@ -1,6 +1,9 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!-nl-I'm%20JinSeon&fontSize=20&rotate=10" />
+<div style="position: relative; display: inline-block;">
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=Hello%20World!&fontSize=60&rotate=10" />
+  <p style="position: absolute; top: 10px; left: 10px; font-size: 20px;">I'm JinSeon</p>
+</div>
 
 
 
