@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=D0D4CA&height=300&section=header&text=Hello%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Hello%20World!&fontSize=50&rotate=-30)
 
  <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=TypeScript&logoColor=white"/>d
 
